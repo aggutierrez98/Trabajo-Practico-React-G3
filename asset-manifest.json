@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "./static/css/main.6dea0f05.chunk.css",
-    "main.js": "./static/js/main.718fa6ca.chunk.js",
-    "main.js.map": "./static/js/main.718fa6ca.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.1b1fe2cc.js",
-    "runtime-main.js.map": "./static/js/runtime-main.1b1fe2cc.js.map",
-    "static/js/2.50e79b6d.chunk.js": "./static/js/2.50e79b6d.chunk.js",
-    "static/js/2.50e79b6d.chunk.js.map": "./static/js/2.50e79b6d.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "./static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.50e79b6d.chunk.js.LICENSE.txt": "./static/js/2.50e79b6d.chunk.js.LICENSE.txt"
+    "main.css": "/Trabajo-Practico-React-G3/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Trabajo-Practico-React-G3/static/js/main.718fa6ca.chunk.js",
+    "main.js.map": "/Trabajo-Practico-React-G3/static/js/main.718fa6ca.chunk.js.map",
+    "runtime-main.js": "/Trabajo-Practico-React-G3/static/js/runtime-main.8a5edc7b.js",
+    "runtime-main.js.map": "/Trabajo-Practico-React-G3/static/js/runtime-main.8a5edc7b.js.map",
+    "static/js/2.50e79b6d.chunk.js": "/Trabajo-Practico-React-G3/static/js/2.50e79b6d.chunk.js",
+    "static/js/2.50e79b6d.chunk.js.map": "/Trabajo-Practico-React-G3/static/js/2.50e79b6d.chunk.js.map",
+    "index.html": "/Trabajo-Practico-React-G3/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Trabajo-Practico-React-G3/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.50e79b6d.chunk.js.LICENSE.txt": "/Trabajo-Practico-React-G3/static/js/2.50e79b6d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1b1fe2cc.js",
+    "static/js/runtime-main.8a5edc7b.js",
     "static/js/2.50e79b6d.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.718fa6ca.chunk.js"
