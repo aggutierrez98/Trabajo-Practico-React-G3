@@ -116,12 +116,11 @@ export const crearLibro = (libro) => ({
     payload: libro
 });
 
-export const startActualizarLibro = (id, nombre, descripcion) => {
+export const startActualizarLibro = (id, descripcion) => {
     return async (dispatch) => {
 
         const libro = {
-            nombre,
-            descripcion,
+            descripcion
         };
 
         const { status, data } = await axios.put(`${baseUrl}/libro/${id}`, libro);

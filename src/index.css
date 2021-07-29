@@ -9,16 +9,12 @@
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans);
 
 body {
-  height: 100%;
-  font-family: "Poppins", sans-serif;
-  background-color: var(--darkpink);
+  height: 100%; 
+	font-family: 'Noto Sans', sans-serif;
+  background-color: #ab4493; 
+
 }
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
-}
-
-:root {
-  --darkpink: #ab4493;
-  --lightpink: #f045c8;
 }
